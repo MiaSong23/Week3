@@ -4,7 +4,8 @@
 991492491
 
 Practice
-commnets add
+comments add1
+comments add2
  */
 package ca.sheridancollege.week3.softwarefundamentals.ice1;
 
